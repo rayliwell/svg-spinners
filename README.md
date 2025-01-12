@@ -20,3 +20,4 @@ All spinners are displayed inside a 24 x 24 dp view box. The main content rests 
 ## License
 
 MIT © [Utkarsh Verma](https://github.com/n3r4zzurr0)
+MIT © [Ryan Halliwell](https://github.com/rayliwell)
