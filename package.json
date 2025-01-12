@@ -1,0 +1,11 @@
+{
+  "name": "svg-spinners",
+  "version": "1.0.0",
+  "description": "A collection of SVG spinners",
+  "author": "Ryan Halliwell <ryan@rayliwell.com> (https://github.com/rayliwell)",
+  "license": "MIT",
+  "keywords": ["spinners", "svg", "icons"],
+  "repository": "github:rayliwell/svg-spinners",
+  "homepage": "https://github.com/rayliwell/svg-spinners#readme",
+  "files": ["svg/*.svg"]
+}
